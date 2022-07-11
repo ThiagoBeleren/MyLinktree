@@ -4,7 +4,7 @@ section .circle{
     justify-content: center;
     height: 27vh;
     max-width: 28vh;
-    background-image: url(/icons/author.jpg);
+    background-image: url(/icons/author.JPG);
     background-size: max(200px, 180px);
     border-radius: 50vh;
     border-style: dashed;
