@@ -1,10 +1,10 @@
-section .circle{
+section .circle {
     display: flex;
     align-items: center;
     justify-content: center;
     height: 27vh;
     max-width: 28vh;
-    background-image: url(/icons/author.JPG);
+    background-image: url(https://cdn.discordapp.com/attachments/996151321096892636/996152127938379826/IMG_20220625_181424_732.jpg);
     background-size: max(200px, 180px);
     border-radius: 50vh;
     border-style: dashed;
