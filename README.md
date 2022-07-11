@@ -13,7 +13,7 @@ Uma simples arvore de links que criei usando somente html5 ccs3 e JS. Enquanto e
 * Projeto para iniciantes em front-end.
 * Responsivo para mobile.
 * Usei as propriedades grid e flex para treinar a responsividade.
-
+* No github pages nao esta mostrando a foto :(
 
 ## Veja em pratica
 
