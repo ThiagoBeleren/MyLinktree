@@ -53,6 +53,6 @@ section .circle{
     max-width: 28vh;
     border-radius: 50vh;
     border-style: dashed;
-    background: url(/icons/Author`s.jpg);
+    background: url(./icons/Author`s.jpg);
     background-size: max(200px, 180px);
 }
