@@ -17,7 +17,7 @@ Uma simples arvore de links que criei usando somente html5 ccs3 e JS. Enquanto e
 
 ## Veja em pratica
 
- - [Projeto em Pratica](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Projeto em Pratica](https://thiagobeleren.github.io/mylinktree/)
  
 
 
