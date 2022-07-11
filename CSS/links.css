@@ -13,14 +13,10 @@ img {
 }
 
 .links {
-    margin-top: ;
-    margin-left: ;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 20px;
     cursor: pointer;
-    border-radius: ;
-    width: ;
     align-items: center;
 }
 .links span{
@@ -28,10 +24,8 @@ img {
 }
 #link-1 {
     box-shadow: 0 5px 15px rgba(0,0,0,.5);
-    width: ;
     display: flex;
     justify-content: space-around;
-    
     border-radius: 20px;
     background-color: rgb(173, 159, 159);
     
@@ -39,7 +33,6 @@ img {
 
 #link-2 {
     box-shadow: 0 5px 15px rgba(0,0,0,.5);
-    width: ;
     display: flex;
     justify-content: space-around;
     border-radius: 20px;
@@ -49,7 +42,6 @@ img {
 
 #link-3 {
     box-shadow: 0 5px 15px rgba(0,0,0,.5);
-    width: ;
     display: flex;
     justify-content: space-around;
     text-align: center;
@@ -59,7 +51,6 @@ img {
 
 #link-4 {
     box-shadow: 0 5px 15px rgba(0,0,0,.5);
-    width: ;
     display: flex;
     justify-content: space-around;
     text-align: center;
