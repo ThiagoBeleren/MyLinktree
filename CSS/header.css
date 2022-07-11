@@ -1,3 +1,16 @@
+section .circle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 27vh;
+    max-width: 28vh;
+    background-image: url(/icons/author.jpg);
+    background-size: max(200px, 180px);
+    border-radius: 50vh;
+    border-style: dashed;
+    
+}
+
 *{
     text-decoration: none;
 }
@@ -43,16 +56,4 @@ section span{
     font-weight: 2px;
     font-size: 50px;
     text-align: center;
-}
-section .circle{
-    background-attachment: fixed;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 27vh;
-    max-width: 28vh;
-    border-radius: 50vh;
-    border-style: dashed;
-    background: url(./icons/Author`s.jpg);
-    background-size: max(200px, 180px);
 }
